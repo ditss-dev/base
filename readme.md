@@ -81,8 +81,8 @@ Edit file `config.js` untuk:
 ## 🧑‍💻 Developer
 - Nama: Aditia Nugraha Putra
 - Website: [https://www.ditss.cloud](https://www.ditss.cloud)
-- WhatsApp: [wa.me/628xxx](https://wa.me/6281513607731)
-- GitHub: [github.com/aditiaputra](https://github.com/ditss-dev)
+- WhatsApp: [wa.me](https://wa.me/6281513607731)
+- GitHub: [github.com/ditss-dev](https://github.com/ditss-dev)
 
 ---
 
